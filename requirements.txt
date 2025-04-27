@@ -1,0 +1,4 @@
+requests
+keylogger
+pypiwin32
+pycryptodome
